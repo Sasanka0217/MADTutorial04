@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab sheet2</string>
+    <string name="Name">Enter Name</string>
+    <string name="Email">Enter Email</string>
+    <string name="Password">Enter Password</string>
+    <string name="Re-Password">Re Enter Password</string>
 </resources>
